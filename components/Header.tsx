@@ -1,4 +1,4 @@
-import { SearchIcon } from "heroicons/react/solid";
+import { BellIcon, SearchIcon } from "@heroicons/react/solid";
 
 function Header() {
   return (
